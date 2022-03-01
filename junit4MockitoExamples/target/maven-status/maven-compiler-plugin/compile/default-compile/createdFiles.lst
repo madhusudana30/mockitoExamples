@@ -1,5 +1,0 @@
-com\junit4\mockito\CustomerBusinessImpl.class
-com\junit4\mockito\helper\CustomerHelper.class
-com\junit4\mockito\model\Customer.class
-com\junit4\mockito\model\Address.class
-com\junit4\mockito\api\CustomerServiceAPI.class
